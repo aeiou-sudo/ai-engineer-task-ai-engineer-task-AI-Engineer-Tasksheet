@@ -56,7 +56,7 @@ This solution is built to run **completely locally** on GPU-enabled machines usi
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/aeiou-sudo/Corporate-Agent.git
+git clone [https://github.com/aeiou-sudo/Corporate-Agent.git](https://github.com/aeiou-sudo/ai-engineer-task-ai-engineer-task-AI-Engineer-Tasksheet.git)
 cd 
 ```
 
